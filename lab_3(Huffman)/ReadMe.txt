@@ -1,5 +1,4 @@
 This program implements Huffman compressing algotithm
-Made by Ihor Handziuk, 2015
 
 To compress files run program in command prompt with parametr -e.
 Example: huffman.exe -e file1.txt <file2.txt> <file3.txt>...
